@@ -15,6 +15,10 @@ public class EmailSending {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+my name is iqbal hossen.
+what a best way of think..
+what is that.
+i want to justice my son.
         // TODO code application logic here
     }
     
